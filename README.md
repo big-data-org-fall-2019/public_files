@@ -53,3 +53,38 @@ https://www.springboard.com/blog/introduction-regression-classification-machine-
 - **Beyond Accuracy: Precision and Recall**
 This gives an introduction to important performance metrics in classification: recall, precision, the confusion matrix, the ROC curve and AUC (the Area Under the Curve).   Here is the link:  
 https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c 
+
+## Week 4: Classification
+- **Video 1**
+A Nice video showing how to use one-vs-all for multi-classs classification
+https://www.youtube.com/watch?v=ZvaELFv5IpM
+
+- **Video 2**
+A Nice video showing the issues of one-vs-one and one-vs-all for multi-classs classification
+https://www.youtube.com/watch?v=_s3z8dQX3pM
+
+- **Evaluation of Multi-class Classificastion**
+This article gives a nice overview of a number of ways to evaluate the performance of a multi-class classifier:
+https://medium.com/apprentice-journal/evaluating-multi-class-classifiers-12b2946e755b
+
+## Week 5: Decision Trees and Random Forests**
+- **Overview**
+This article focuses on decision trees and how they work:
+https://towardsdatascience.com/decision-tree-an-algorithm-that-works-like-the-human-brain-8bc0652f1fc6
+
+- **Builing Random Forests from Decsion Trees**
+https://www.datascience.com/blog/random-forests-decision-trees-ensemble-methods
+
+## Week 6: Logistic Regression
+- **Overview**
+A simple description of Logistic Regression
+https://towardsdatascience.com/understanding-logistic-regression-9b02c2aec102
+
+- **A more complex description of logistic regression**
+This is more involved, along with a discussion of "odds":
+https://towardsdatascience.com/logistic-regression-python-7c451928efee
+
+## Week 7: Softmax Classification
+- **Two articles which cover softmax classification**
+- https://towardsdatascience.com/the-softmax-function-neural-net-outputs-as-probabilities-and-ensemble-classifiers-9bd94d75932
+- https://www.harrisgeospatial.com/docs/backgroundsoftmaxregression.html
