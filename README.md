@@ -1,7 +1,7 @@
 # Important terms/questions to know
 Check [this file](https://github.com/big-data-org-fall-2019/public_files/blob/master/importantTermsQuestions.pdf) weekly!
 
-# Week 1 Presentations
+# Quiz Solutions
 - [Quiz 1 Solution](https://github.com/big-data-org-fall-2019/public_files/blob/master/ReadingQuiz1_solution.pdf)
 - [Quiz 2 Solution](https://github.com/big-data-org-fall-2019/public_files/blob/master/ReadingQuiz2_solution.pdf)
 - [Quiz 3 Solution](https://github.com/big-data-org-fall-2019/public_files/blob/master/ReadingQuiz3_solution.pdf)
